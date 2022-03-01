@@ -1,0 +1,10 @@
+/Users/javidannasib/Downloads/Development/Market Management System/Market Management System/bin/Debug/Market Management System.exe
+/Users/javidannasib/Downloads/Development/Market Management System/Market Management System/bin/Debug/Market Management System.pdb
+/Users/javidannasib/Downloads/Development/Market Management System/Market Management System/bin/Debug/ConsoleTables.dll
+/Users/javidannasib/Downloads/Development/Market Management System/Market Management System/bin/Debug/EasyConsole.dll
+/Users/javidannasib/Downloads/Development/Market Management System/Market Management System/bin/Debug/ConsoleTables.pdb
+/Users/javidannasib/Downloads/Development/Market Management System/Market Management System/obj/Debug/Market Management System.csproj.AssemblyReference.cache
+/Users/javidannasib/Downloads/Development/Market Management System/Market Management System/obj/Debug/Market Management System.csproj.CoreCompileInputs.cache
+/Users/javidannasib/Downloads/Development/Market Management System/Market Management System/obj/Debug/Market Management System.csproj.CopyComplete
+/Users/javidannasib/Downloads/Development/Market Management System/Market Management System/obj/Debug/Market Management System.exe
+/Users/javidannasib/Downloads/Development/Market Management System/Market Management System/obj/Debug/Market Management System.pdb
